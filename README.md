@@ -1,5 +1,10 @@
 ### Sentiment-analysis COMP 479 Project (Machine Learning)
 
+Group Members
+1. Samuel Habte
+2. Rejoice Jembamalaidass
+3. Pranjali Mishra
+
 + Dataset used is a cleaned IMDB data from [Kaggle link](https://www.kaggle.com/oumaimahourrane/imdb-movie-reviews-cleaned-data)
 + Total dataset is 24902 and for this project randomize the dataset and took 5000 samples. Script file related to this operation is IMDB.ipynb
 + For Sentiment analysis used the bag of words using CountVectorize, Holdout method and different models to fit train dataset and test on validation set and finally with the best performer model test dataset.
