@@ -1,4 +1,4 @@
-# Sentiment-analysis COMP 379 Project (Machine Learning)
+### Sentiment-analysis COMP 479 Project (Machine Learning)
 
 + Dataset used is a cleaned IMDB data from [Kaggle link](https://www.kaggle.com/oumaimahourrane/imdb-movie-reviews-cleaned-data)
 + Total dataset is 24902 and for this project randomize the dataset and took 5000 samples. Script file related to this operation is IMDB.ipynb
