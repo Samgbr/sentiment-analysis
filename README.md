@@ -15,4 +15,3 @@ Group Members
   + Recurrent Neural Network - LSTM(Long Short Term Memory)
 + Metrics used Accuracy, Confusion Matrix, F1 Score, Recall and Precision
 + Performance report and slide preparation
-+ Grid Search implementation if computation is not expensive
