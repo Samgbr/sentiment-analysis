@@ -15,3 +15,4 @@ Group Members
   + Recurrent Neural Network - LSTM(Long Short Term Memory)
 + Metrics used Accuracy, Confusion Matrix, F1 Score, Recall and Precision
 + Performance report and slide preparation
++ For Embedded layer downloaded the pre-defined word vectors from the [link](https://nlp.stanford.edu/projects/glove/) 
